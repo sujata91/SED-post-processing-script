@@ -1,1 +1,1 @@
-# SED_scripts to plot obs vs sim and calculate metrices
+Python script to plot obs vs sim and calculate metrices
